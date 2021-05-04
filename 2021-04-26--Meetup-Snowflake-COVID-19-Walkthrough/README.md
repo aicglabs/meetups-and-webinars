@@ -7,13 +7,12 @@ We had a great turnout for our last event. This time we're going to get more han
 ## Video/Audio Recordings
 https://youtu.be/nhgDBF8m8rw
 
-![Video Screenshot]
-(video_screenshot.png)
+![Video Screenshot](video_screenshot.png)
 
 
 ## Other Information
 See folder for additional items:
-- [a relative link](SQL-Queries-Logic.sql)
+- [SQL Queries Used](SQL-Queries-Logic.sql)
 
 
 ## Attribution & Thanks

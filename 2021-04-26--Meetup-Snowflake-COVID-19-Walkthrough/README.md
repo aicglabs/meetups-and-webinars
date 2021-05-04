@@ -7,8 +7,7 @@ We had a great turnout for our last event. This time we're going to get more han
 ## Video/Audio Recordings
 https://youtu.be/nhgDBF8m8rw
 
-![Video Screenshot](video_screenshot.png)
-<img src="video_screenshot.png" width="300">
+<img src="video_screenshot.png" width="500">
 
 ## Other Information
 See folder for additional items:

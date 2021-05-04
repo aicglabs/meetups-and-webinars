@@ -8,7 +8,7 @@ We had a great turnout for our last event. This time we're going to get more han
 https://youtu.be/nhgDBF8m8rw
 
 ![Video Screenshot](video_screenshot.png)
-
+<img src="video_screenshot.png" width="300">
 
 ## Other Information
 See folder for additional items:
@@ -16,5 +16,5 @@ See folder for additional items:
 
 
 ## Attribution & Thanks
-David A Spezia @ Snowflake - SQL Queries
-Felipe Hoffa @ Snowflake - prompt to revisit topic idea
+- David A Spezia @ Snowflake - SQL Queries
+- Felipe Hoffa @ Snowflake - prompt to revisit topic idea

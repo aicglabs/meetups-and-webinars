@@ -6,9 +6,9 @@ We focused on the Snowflake interface and walking through several scenarios with
 
 
 ## Video/Audio Recordings
-https://www.youtube.com/channel/UCXn_h8XICmf3sH-7wSWhSRQ
+https://youtu.be/yE2IWEhw1hQ
 
-<img src="tasks_video_screenshot.png" width="500">
+<img src="video_screenshot.png" width="500">
 
 ## Other Information
 See folder for additional items:

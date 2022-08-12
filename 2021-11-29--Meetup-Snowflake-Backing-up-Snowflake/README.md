@@ -1,16 +1,16 @@
-# Snowflake Using Python 
-Monday, May 24, 2021
+# Snowflake Backups
+Monday, November 19, 2021
 
-This is the one where we talk about Snowflake Secrurity.
-We focused on the Snowflake interface and walking through several scenarios with Role Based Access Controls (RBAC), terminology, default roles, default warehouse, default namespace.
+This is the one where we talk about backing up Snowflake.
+We focused on the Snowflake interface and a process for backing up Snowflake objects quickly with some level of consistency and reliability.
 
 ## Video/Audio Recordings
-https://youtu.be/606Z52lXaJ4
+https://www.youtube.com/watch?v=sOlBzkIVjZg
 
 
 ## Other Information
 See folder for additional items:
-- [Python Notebook Used](20210524 - Snowflake Meetup.ipynb)
+- [Snowflake Worksheet](2021129 - Snowflake Meetup.ipynb)
 
 
 ## Attribution & Thanks

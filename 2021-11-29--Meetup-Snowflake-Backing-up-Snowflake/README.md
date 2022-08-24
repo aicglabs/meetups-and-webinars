@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=sOlBzkIVjZg
 
 
 ## Other Information
-See folder for additional items:
-- [Snowflake Worksheet](2021129 - Snowflake Meetup.ipynb)
+See the file for the SQL queries:
+-File name: SQL-Queries-Logic.sql
 
 
 ## Attribution & Thanks
